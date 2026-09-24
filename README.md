@@ -1,6 +1,6 @@
 # AltSoftSerial
 
-Software emulated serial using hardware timers for improved compatibility. Improved software emulated serial, using hardware timers for precise signal timing and improved compatibility with other interrupt-based libraries. Original author: Paul Stoffregen. This is Dave Robinson's working copy from the Arduino `libraries` tree. Version recorded in `library.properties`: 1.4. Upstream: <http://www.pjrc.com/teensy/td_libs_AltSoftSerial.html>.
+Software emulated serial using hardware timers for improved compatibility. Improved software emulated serial, using hardware timers for precise signal timing and improved compatibility with other interrupt-based libraries. Original author: Paul Stoffregen. This is my working copy from the Arduino `libraries` tree. Version recorded in `library.properties`: 1.4. Upstream: <http://www.pjrc.com/teensy/td_libs_AltSoftSerial.html>.
 
 **Source last updated:** 2019-05-01  
 **Language:** C++ / Arduino  
@@ -30,7 +30,7 @@ Install this folder as an Arduino library (Sketch → Include Library → Add .Z
 - **Version:** 1.4
 - **Upstream URL:** <http://www.pjrc.com/teensy/td_libs_AltSoftSerial.html>
 - **Category:** Communication
-- This repository is Dave Robinson's working copy for catalogue/reference; authorship stays with the original authors.
+- This repository is my working copy for catalogue/reference; authorship stays with the original authors.
 
 ## License
 
